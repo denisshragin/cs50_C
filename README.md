@@ -1,2 +1,2 @@
 # cs50_C
-Problems from CS50 course at Harvard University
+Small problems for beginners from CS50 course at Harvard University
